@@ -1,7 +1,7 @@
 import React, { useState } from 'react'
 import styled from "styled-components"
 import { ArrowLeftOutlined, ArrowRightOutlined } from "@material-ui/icons" 
-import sliderItems from "../data"
+import { sliderItems } from "../data"
 
 const Container = styled.div`
 width: 100%;
@@ -9,7 +9,6 @@ height: 100vh;
 display: flex;
 position: relative;
 overflow: hidden;
-
 `
 
 const Arrow = styled.div`
@@ -51,7 +50,6 @@ flex:1;`
 
 const Image = styled.img`
 height: 80%;
-max-width: 100%;
 `
 
 const InfoContainer = styled.div`

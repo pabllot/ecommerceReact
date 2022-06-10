@@ -70,7 +70,7 @@ const Navbar = () => {
           </SearchContainer>
         </Left>
         <Center>
-          <Logo>Eccomerce</Logo>
+          <Logo>Nike Ecommerce</Logo>
         </Center>
         <Right>
           <MenuItem>REGISTER</MenuItem>
