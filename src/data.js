@@ -24,20 +24,63 @@ export const sliderItems = [
 
 export const categories = [
     {
-        id: 1,
+        id: 4,
         img: "images/shoe.jpg",
         title: "Sneakers"
     },
     {
-        id: 2,
+        id: 5,
         img: "images/coat.jpg",
         title: "Jackets"
     },
     {
-        id: 3,
+        id: 6,
         img: "images/shirt.jpg",
         title: "T-shirts"
     },
 
+];
+
+export const popularProducts = [
+    {
+        id: 11,
+        img: "images/sn4.jpg"
+    },
+    {
+        id: 12,
+        img: "images/sn2.jpg"
+    },
+    {
+        id: 13,
+        img: "images/sn3.jpg"
+    },
+    {
+        id: 14,
+        img: "images/sn1.jpg"
+    },
+    {
+        id: 15,
+        img: "images/sn5.jpg"
+    },
+    {
+        id: 16,
+        img: "images/sn2.jpg"
+    },
+    {
+        id: 17,
+        img: "images/sn3.jpg"
+    },
+    {
+        id: 18,
+        img: "images/sn1.jpg"
+    },
+    {
+        id: 19,
+        img: "images/sn5.jpg"
+    },
+    {
+        id: 20,
+        img: "images/sn4.jpg"
+    },
 ]
 
