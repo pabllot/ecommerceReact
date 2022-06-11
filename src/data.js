@@ -52,7 +52,7 @@ export const popularProducts = [
     },
     {
         id: 13,
-        img: "images/sn3.jpg"
+        img: "images/shirttt.webp"
     },
     {
         id: 14,
@@ -64,23 +64,23 @@ export const popularProducts = [
     },
     {
         id: 16,
-        img: "images/sn2.jpg"
+        img: "images/sn13.avif"
     },
     {
         id: 17,
-        img: "images/sn3.jpg"
+        img: "images/back2.webp"
     },
     {
         id: 18,
-        img: "images/sn1.jpg"
+        img: "images/sn10.avif"
     },
     {
         id: 19,
-        img: "images/sn5.jpg"
+        img: "images/sn14.avif"
     },
     {
         id: 20,
-        img: "images/sn4.jpg"
+        img: "images/shirtt.webp"
     },
 ]
 

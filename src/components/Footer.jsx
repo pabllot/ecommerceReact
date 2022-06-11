@@ -77,7 +77,7 @@ const Footer = () => {
     <Container>
         <Left>
             <Logo>Nike</Logo>
-            <Desc>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Numquam eum itaque aut at autem repellat. Fugit alias, consectetur doloremque aspernatur temporibus inventore sunt. Quasi illum, a aliquam consequatur molestias nemo.</Desc>
+            <Desc>Nike is an American multinational corporation that is engaged in the design, development, manufacturing, and worldwide marketing and sales of footwear, apparel, equipment, accessories, and services. The company is headquartered near Beaverton, Oregon, in the Portland metropolitan area.</Desc>
             <SocialContainer>
                 <SocialIcon color="3B5999">
                     <Facebook />
