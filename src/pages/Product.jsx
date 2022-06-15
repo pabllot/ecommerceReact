@@ -120,9 +120,9 @@ const Product = () => {
               <Image src="images/sn1.jpg" />
            </ImgContainer>
            <InfoContainer>
-              <Title>Denim Jumpsuit</Title>
+              <Title>Nike Air Jordan</Title>
               <Desc> Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa debitis quis vel reiciendis! Magnam cumque necessitatibus architecto est doloremque beatae voluptate provident dolorum, culpa modi minima placeat temporibus molestiae dolorem? </Desc> 
-              <Price>$ 20</Price>
+              <Price>$ 120</Price>
               <FilterContainer>
                 <Filter>
                     <FilterTitle>Color</FilterTitle>

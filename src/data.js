@@ -44,43 +44,43 @@ export const categories = [
 export const popularProducts = [
     {
         id: 11,
-        img: "images/sn4.jpg"
+        img: "images/img1.webp"
     },
     {
         id: 12,
-        img: "images/sn2.jpg"
+        img: "images/img2.webp"
     },
     {
         id: 13,
-        img: "images/nike4.jpg"
+        img: "images/img3.webp"
     },
     {
         id: 14,
-        img: "images/sn1.jpg"
+        img: "images/img4.webp"
     },
     {
         id: 15,
-        img: "images/sn5.jpg"
+        img: "images/img5.webp"
     },
     {
         id: 16,
-        img: "images/sn13.avif"
+        img: "images/img6.webp"
     },
     {
         id: 17,
-        img: "images/shoe.jpg"
+        img: "images/img7.webp"
     },
     {
         id: 18,
-        img: "images/sn10.avif"
+        img: "images/img8.webp"
     },
     {
         id: 19,
-        img: "images/sn14.avif"
+        img: "images/img9.webp"
     },
     {
         id: 20,
-        img: "images/shirtt.webp"
+        img: "images/img10.webp"
     },
 ]
 

@@ -163,7 +163,7 @@ const Cart = () => {
             <Info>
                 <Product>
                    <ProductDetail>
-                      <Image src="images/sn12.avif"/>
+                      <Image src="images/img2.webp"/>
                       <Details>
                         <ProductName><b>Product:</b> AIR FORCE</ProductName>
                         <ProductId><b>ID:</b> 54345</ProductId>
@@ -183,7 +183,7 @@ const Cart = () => {
                 <Hr />
                 <Product>
                    <ProductDetail>
-                      <Image src="images/sn13.avif"/>
+                      <Image src="images/img7.webp"/>
                       <Details>
                         <ProductName><b>Product:</b> AIR DUNK</ProductName>
                         <ProductId><b>ID:</b> 54345</ProductId>
