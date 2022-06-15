@@ -2,7 +2,7 @@ import styled from 'styled-components'
 import Search from '@material-ui/icons/Search'
 import Favorite from '@material-ui/icons/FavoriteBorderOutlined'
 import Cart from '@material-ui/icons/ShoppingCartOutlined'
-
+import { mobile }  from '../responsive'
 
 const InfoContainer = styled.div`
 opacity: 0;

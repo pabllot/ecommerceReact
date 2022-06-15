@@ -52,7 +52,7 @@ export const popularProducts = [
     },
     {
         id: 13,
-        img: "images/shirttt.webp"
+        img: "images/nike4.jpg"
     },
     {
         id: 14,
@@ -68,7 +68,7 @@ export const popularProducts = [
     },
     {
         id: 17,
-        img: "images/back2.webp"
+        img: "images/shoe.jpg"
     },
     {
         id: 18,

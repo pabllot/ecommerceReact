@@ -5,9 +5,11 @@ import Map from "@material-ui/icons/Room"
 import Phone from "@material-ui/icons/Phone"
 import Mail from "@material-ui/icons/MailOutlined"
 import styled from "styled-components"
+import { mobile }  from '../responsive'
 
 const Container = styled.div`
 display:  flex;
+${mobile({ flexDirection: "column"})};
 `
 
 const Left = styled.div`
@@ -17,10 +19,12 @@ flex-direction: column;
 padding: 20px;
 `
 
-const Logo = styled.h1``
+const Logo = styled.h1`
+${mobile({ textAlign: "center"})};`
 
 const Desc = styled.p`
 margin: 20px 0px;
+${mobile({ textAlign: "center"})};
 `
 
 const SocialContainer = styled.div`
@@ -41,6 +45,7 @@ margin-right: 20px;
 const Center = styled.div`
 flex: 1;
 padding: 20px;
+${mobile({ display: "none"})};
 `
 const Title = styled.h3`
 margin-bottom: 30px;
@@ -76,7 +81,7 @@ const Footer = () => {
   return (
     <Container>
         <Left>
-            <Logo>Nike</Logo>
+            <Logo>NIKE.</Logo>
             <Desc>Nike is an American multinational corporation that is engaged in the design, development, manufacturing, and worldwide marketing and sales of footwear, apparel, equipment, accessories, and services.</Desc>
             <SocialContainer>
                 <SocialIcon color="3B5999">
